@@ -1,0 +1,11 @@
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\bin\Debug\netcoreapp2.0\AspNetPagingApi.deps.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\bin\Debug\netcoreapp2.0\AspNetPagingApi.runtimeconfig.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\bin\Debug\netcoreapp2.0\AspNetPagingApi.runtimeconfig.dev.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\bin\Debug\netcoreapp2.0\AspNetPagingApi.dll
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\bin\Debug\netcoreapp2.0\AspNetPagingApi.pdb
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\obj\Debug\netcoreapp2.0\AspNetPagingApi.csprojResolveAssemblyReference.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\obj\Debug\netcoreapp2.0\AspNetPagingApi.csproj.CoreCompileInputs.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\obj\Debug\netcoreapp2.0\AspNetPagingApi.AssemblyInfoInputs.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\obj\Debug\netcoreapp2.0\AspNetPagingApi.AssemblyInfo.cs
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\obj\Debug\netcoreapp2.0\AspNetPagingApi.dll
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetPagingApi\obj\Debug\netcoreapp2.0\AspNetPagingApi.pdb
